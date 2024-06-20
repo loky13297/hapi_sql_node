@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "loksai",
+    "password": "doodleblue@123",
+    "database": "hapi_sql",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "loksai",
+    "password": "doodleblue@123",
+    "database": "hapi_sql",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "loksai",
+    "password": "doodleblue@123",
+    "database": "hapi_sql",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
